@@ -1,0 +1,9 @@
+{
+  "name": "tienda-animo-api",
+  "version": "1.0.0",
+  "description": "Backend serverless para tienda fotográfica Lucas Martinez",
+  "dependencies": {
+    "mercadopago": "^2.0.0",
+    "resend": "^3.0.0"
+  }
+}
